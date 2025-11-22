@@ -1,3 +1,11 @@
+*.www.googletagmanager.com
+*.www.googletagservices.com
+*.googletagservices.com
+*.www.google-analytics.com
+*.partner.googleadservices.com
+*.pagead.googlesyndication.com
+*.g.doubleclick.net
+*.securepubads.g.doubleclick.net
 *.mixpanel.com
 *.quantserve.com
 *.scorecardresearch.com
